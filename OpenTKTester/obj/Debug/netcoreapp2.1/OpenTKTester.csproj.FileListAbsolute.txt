@@ -1,0 +1,12 @@
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\bin\Debug\netcoreapp2.1\OpenTKTester.deps.json
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\bin\Debug\netcoreapp2.1\OpenTKTester.runtimeconfig.json
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\bin\Debug\netcoreapp2.1\OpenTKTester.runtimeconfig.dev.json
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\bin\Debug\netcoreapp2.1\OpenTKTester.dll
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\bin\Debug\netcoreapp2.1\OpenTKTester.pdb
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\obj\Debug\netcoreapp2.1\OpenTKTester.csprojAssemblyReference.cache
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\obj\Debug\netcoreapp2.1\OpenTKTester.csproj.CoreCompileInputs.cache
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\obj\Debug\netcoreapp2.1\OpenTKTester.AssemblyInfoInputs.cache
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\obj\Debug\netcoreapp2.1\OpenTKTester.AssemblyInfo.cs
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\obj\Debug\netcoreapp2.1\OpenTKTester.dll
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\obj\Debug\netcoreapp2.1\OpenTKTester.pdb
+C:\Users\henry\RiderProjects\OpenTKTester\OpenTKTester\bin\Debug\netcoreapp2.1\OpenTK.dll.config
